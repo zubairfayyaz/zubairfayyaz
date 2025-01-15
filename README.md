@@ -1,6 +1,6 @@
 # Zubair Fayyaz | Data Engineer | Data Analyst
 
-Welcome to my portfolio repository! I am a **Data Engineer** with expertise in designing and building efficient data pipelines, scalable architectures, and delivering insights to drive impactful business decisions. Additionally, I excel as a **Data Analyst** and **BI Engineer**, transforming raw data into actionable insights and interactive visualizations.
+Welcome to my portfolio ! I am a **Data Engineer** with expertise in designing and building efficient data pipelines, scalable architectures, and delivering insights to drive impactful business decisions. Additionally, I excel as a **Data Analyst** and **BI Engineer**, transforming raw data into actionable insights and interactive visualizations.
 
 
 
@@ -8,12 +8,11 @@ Welcome to my portfolio repository! I am a **Data Engineer** with expertise in d
 
 ## 👨‍💻 About Me
 
-- 🔹 **Data Engineering Expertise**: Proficient in Azure Data Factory, ETL/ELT pipelines, and data modeling.
-- 🔹 **Full-Stack Development**: Experienced in building dynamic web applications with **MongoDB**, **Express**, **React**, and **Node.js**.
-- 🔹 **Problem-Solver**: Passionate about creating solutions that bridge business and technology.
+- 🔹 **Data Engineering Expertise**: Skilled in using **Azure Data Factory** to build robust data pipelines and **Azure Synapse Analytics** for BI engineering.  
+- 🔹 **Business Intelligence Development**: Proficient in creating insightful dashboards and reports using **Power BI**, **Apache Superset**, and **Metabase**.  
+- 🔹 **AI Enthusiast**: Experienced in working with **LLMs**, performing **OCR**, and handling AI-related tasks to enhance data-driven solutions.
 
 ---
-
 ## 📁 Portfolio Highlights
 
 ### 🔷 **Data Engineering Projects**
