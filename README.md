@@ -1,6 +1,8 @@
 # Zubair Fayyaz | Data Engineer | Data Analyst
 
-Welcome to my portfolio repository! I am a **Data Engineer** skilled in building efficient data pipelines, designing scalable architectures, and delivering insights that drive business decisions. I also have expertise in full-stack development using the **MERN stack**.
+Welcome to my portfolio repository! I am a **Data Engineer** with expertise in designing and building efficient data pipelines, scalable architectures, and delivering insights to drive impactful business decisions. Additionally, I excel as a **Data Analyst** and **BI Engineer**, transforming raw data into actionable insights and interactive visualizations.
+
+
 
 ---
 
