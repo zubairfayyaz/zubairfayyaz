@@ -1,4 +1,4 @@
-# Zubair Fayyaz | Data Engineer | Data Analyst
+# Data Engineer | BI Engineer | Data Analyst
 
 Welcome to my portfolio ! I am a **Data Engineer** with expertise in designing and building efficient data pipelines, scalable architectures, and delivering insights to drive impactful business decisions. Additionally, I excel as a **Data Analyst** and **BI Engineer**, transforming raw data into actionable insights and interactive visualizations.
 
