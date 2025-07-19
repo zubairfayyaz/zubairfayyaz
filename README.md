@@ -5,7 +5,7 @@
   <a href="https://pk.linkedin.com/in/zubairfayyaz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-zubairfayyaz-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:zubair@example.com" target="_blank">
+  <a href="mailto:zubair@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-zubair@example.com-red?style=flat-square&logo=gmail" alt="Email">
   </a>
   <a href="https://github.com/zubairfayyaz" target="_blank">
