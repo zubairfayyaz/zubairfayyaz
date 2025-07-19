@@ -1,3 +1,19 @@
+<h1 align="center">👋 Hi, I'm Zubair Fayyaz</h1>
+<h3 align="center">Data Engineer | BI Engineer | Data Analyst</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zubairfayyaz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-zubairfayyaz-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zubairbinfayyaz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-zubairbinfayyaz@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/zubairfayyaz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-zubairfayyaz-black?style=flat&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+---
  <h1 align="center">Hi 👋, I'm Zubair Fayyaz</h1>
 <h3 align="center">🚀 Data Engineer | BI Engineer | Software Developer</h3>
 
