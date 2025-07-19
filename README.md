@@ -1,79 +1,76 @@
-<h1 align="center">👋 Hi, I'm Zubair Fayyaz</h1>
-<h3 align="center">Data Engineer | BI Engineer | Data Analyst</h3>
+ <h1 align="center">Hi 👋, I'm Zubair Fayyaz</h1>
+<h3 align="center">🚀 Data Engineer | BI Engineer | Software Developer</h3>
 
 <p align="center">
-  <a href="https://pk.linkedin.com/in/zubairfayyaz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-zubairfayyaz-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:zubairbinfayyaz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-zubairbinfayyaz@gmail.com-red?style=flat-square&logo=gmail" alt="Email">
-  </a>
-  <a href="https://github.com/zubairfayyaz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-zubairfayyaz-black?style=flat-square&logo=github" alt="GitHub">
-  </a>
+  <a href="mailto:zubairbinfayyaz@gmail.com">📧 Email</a> |
+  <a href="https://www.linkedin.com/in/your-profile/">🔗 LinkedIn</a> |
+  <a href="https://github.com/your-github-username">🐙 GitHub</a>
 </p>
 
 ---
 
-## 💼 About Me
+🔍 **About Me**
 
-I am a dedicated **Data Engineer** with a strong background in designing and implementing scalable data pipelines and architectures. Currently, I work at **Intellicode**, where I leverage tools like **Azure Synapse Analytics**, **Azure Databricks**, and **Azure Stream Analytics** to deliver robust data solutions.
+🎯 I’m an innovative Data & Software Engineer with 3+ years of hands-on experience building robust data infrastructure, AI-powered automation tools, and business intelligence dashboards.
 
-My expertise includes:
-
-- **Data Engineering**: Building end-to-end data pipelines using Azure Data Factory, Databricks, and Synapse Analytics  
-- **Business Intelligence**: Creating insightful dashboards and reports with Power BI, Apache Superset, and Metabase  
-- **AI Integration**: Implementing AI techniques such as OCR and LLMs to enhance data-driven decision making  
-
----
-
-## 🛠️ Technical Skills
-
-- **Languages**: Python, SQL, JavaScript  
-- **Data Engineering**: Azure Data Factory, Azure Synapse Analytics, Azure Databricks, Apache Spark, Hadoop, Airflow  
-- **Databases**: MySQL, MongoDB  
-- **BI Tools**: Power BI, Apache Superset, Metabase, Tableau  
-- **Web Development**: MERN Stack (MongoDB, Express.js, React.js, Node.js)  
-- **Others**: Docker, Git, Linux, RESTful APIs  
+🌐 Currently working at **CBA** as a **Data Pipeline | BI Engineer**  
+🔁 Previously worked at **Intellicode.tech** and **Nexthon**  
+☁️ Specialize in **Azure Data Factory**, **Apache Superset**, **Python ETL**, and **OpenAI integrations**  
+🛠 Built **AI-driven ERP systems**, **OCR invoice processing**, **voice-to-form automation**, and **code generators**
 
 ---
 
-## 📂 Portfolio Highlights
+🧰 **Tech Stack**
 
-### 🔹 Data Engineering Projects
-
-1. **Real-Time Retail Data Pipeline**  
-   - Built a real-time data pipeline to process and analyze transaction data  
-   - Tools: Azure Data Factory, Azure Synapse Analytics, Python  
-   - Reduced reporting latency from 24 hours to under 30 minutes  
-
-2. **IoT Sensor Data Lake**  
-   - Engineered a scalable data lake for processing sensor data from smart devices  
-   - Tools: Azure Databricks, Apache Spark, Hadoop  
-   - Improved equipment uptime by 20% through predictive maintenance  
-
-### 🔹 Full-Stack & BI Projects
-
-1. **Logistics Management Dashboard**  
-   - Developed a dashboard for tracking shipments and optimizing delivery performance  
-   - Tools: MERN Stack, Power BI  
-   - Helped reduce delivery delays by 25%  
-
-2. **Customer Behavior Analytics Tool**  
-   - Built an analytics tool to profile and segment customer behavior  
-   - Tools: Node.js, MongoDB, Metabase  
-   - Boosted customer retention by 15% through better targeting  
+- **Languages**: Python, Java, SQL  
+- **Databases**: MySQL, PostgreSQL, MongoDB  
+- **Data Tools**: Apache Airflow, Superset, Metabase, Power BI  
+- **Cloud & Infra**: Azure Data Factory, Synapse Analytics, Docker  
+- **AI & ML**: OCR (EasyOCR, Tesseract), OpenAI GPT, Whisper, Transformers  
+- **Other**: Flask, JasperReports, Git
 
 ---
 
-## 📈 GitHub Stats
+🚀 **Highlighted Projects**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zubairfayyaz&show_icons=true&theme=radical" alt="Zubair's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubairfayyaz&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 📊 ERP Reporting System
+- Built full Kimball-modeled data warehouse in MySQL.
+- Designed CDC/SCD pipelines and Superset dashboards.
+- Created curated reporting zones for business insights.
+
+### 🧾 Invoice OCR & Bounding Box Detection
+- Used OpenCV, EasyOCR, and Tesseract for extracting structured data from invoices.
+- Developed image preprocessing for enhanced OCR accuracy.
+
+### 🗣️ Voice-to-Form Automation
+- Converted voice into structured ERP fields using OpenAI Whisper + regex.
+- Built AI workflows for entity recognition and field mapping.
+
+### 🤖 ERP Code Generator (GPT-4)
+- Auto-generated backend APIs, database schemas, and UI forms using GPT-4 API.
+- Reduced development time from days to minutes.
+
+### 🏦 Loan Default Risk Prediction
+- Built ML pipelines for financial risk analysis.
+- Trained logistic regression and random forest models for credit scoring.
 
 ---
+
+📈 **Certifications**
+- ✅ DataCamp SQL Associate (2024)  
+- ✅ Google Foundations: Data, Data, Everywhere  
+- ✅ HackerRank: SQL (Advanced)  
+- ✅ 365DataScience: Advanced SQL for Data Engineering
+
+---
+
+📬 **Let’s Connect**
+
+I love collaborating on data-driven tools, ETL pipelines, AI integrations, and making smart systems smarter.  
+Drop me a line at **zubairbinfayyaz@gmail.com** or check out my repos for hands-on project code.
+
+ 
+
 
 ## 📬 Get in Touch
 
