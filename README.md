@@ -14,16 +14,6 @@
 </p>
 
 ---
- <h1 align="center">Hi 👋, I'm Zubair Fayyaz</h1>
-<h3 align="center">🚀 Data Engineer | BI Engineer | Software Developer</h3>
-
-<p align="center">
-  <a href="mailto:zubairbinfayyaz@gmail.com">📧 Email</a> |
-  <a href="https://www.linkedin.com/in/your-profile/">🔗 LinkedIn</a> |
-  <a href="https://github.com/your-github-username">🐙 GitHub</a>
-</p>
-
----
 
 🔍 **About Me**
 
